@@ -1,0 +1,52 @@
+[
+  {
+    "label": "p12pais",
+    "url": "https://www.pagina12.com.ar/rss/secciones/el-pais/notas",
+    "type": "xml"
+  },
+  {
+    "label": "p12eco",
+    "url": "https://www.pagina12.com.ar/rss/secciones/economia/notas",
+    "type": "xml"
+  },
+  {
+    "label": "lmgral",
+    "url": "https://lmdiario.com.ar/default/rss/general.xml",
+    "type": "xml"
+  },
+  {
+    "label": "lmnoti",
+    "url": "https://lmdiario.com.ar/default/rss/noticias.xml",
+    "type": "xml"
+  },
+  {
+    "label":"elmundoP",
+    "url":"https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+    "type":"xml"
+  },
+  {
+    "label": "elmundoEspaña",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
+    "type": "xml"
+  },
+  {
+    "label": "elmundoInternacional",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
+    "type": "xml"
+  },
+  {
+    "label": "elmundoEconomia",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml",
+    "type": "xml"
+  },
+  {
+    "label":"elmundoCultura",
+    "url":"https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
+    "type":"xml"
+  },
+  {
+    "label": "elmundoCiencia",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/ciencia.xml",
+    "type": "xml"
+  }
+]
